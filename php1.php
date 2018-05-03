@@ -1,2 +1,4 @@
 <?php
-  php.info()
+  
+  php.check()
+<php>
