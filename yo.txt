@@ -1,4 +1,5 @@
 1....
+<<<<<<< HEAD
 2 it is good boy
-3 not rich
+3 rich
 4...
